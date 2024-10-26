@@ -1,0 +1,20 @@
+C:\Users\2K24\source\repos\isp223k - dvd\isp223k - dvd\bin\Debug\isp223k - dvd.exe.config
+C:\Users\2K24\source\repos\isp223k - dvd\isp223k - dvd\bin\Debug\isp223k - dvd.exe
+C:\Users\2K24\source\repos\isp223k - dvd\isp223k - dvd\bin\Debug\isp223k - dvd.pdb
+C:\Users\2K24\source\repos\isp223k - dvd\isp223k - dvd\obj\Debug\isp223k - dvd.csproj.AssemblyReference.cache
+C:\Users\2K24\source\repos\isp223k - dvd\isp223k - dvd\obj\Debug\isp223k___dvd.MainForm.resources
+C:\Users\2K24\source\repos\isp223k - dvd\isp223k - dvd\obj\Debug\isp223k___dvd.Properties.Resources.resources
+C:\Users\2K24\source\repos\isp223k - dvd\isp223k - dvd\obj\Debug\isp223k - dvd.csproj.GenerateResource.cache
+C:\Users\2K24\source\repos\isp223k - dvd\isp223k - dvd\obj\Debug\isp223k - dvd.csproj.CoreCompileInputs.cache
+C:\Users\2K24\source\repos\isp223k - dvd\isp223k - dvd\obj\Debug\isp223k - dvd.exe
+C:\Users\2K24\source\repos\isp223k - dvd\isp223k - dvd\obj\Debug\isp223k - dvd.pdb
+C:\Users\2022\Desktop\isp223k - dvd\isp223k - dvd\bin\Debug\isp223k - dvd.exe.config
+C:\Users\2022\Desktop\isp223k - dvd\isp223k - dvd\bin\Debug\isp223k - dvd.exe
+C:\Users\2022\Desktop\isp223k - dvd\isp223k - dvd\bin\Debug\isp223k - dvd.pdb
+C:\Users\2022\Desktop\isp223k - dvd\isp223k - dvd\obj\Debug\isp223k - dvd.csproj.AssemblyReference.cache
+C:\Users\2022\Desktop\isp223k - dvd\isp223k - dvd\obj\Debug\isp223k___dvd.Properties.Resources.resources
+C:\Users\2022\Desktop\isp223k - dvd\isp223k - dvd\obj\Debug\isp223k - dvd.csproj.GenerateResource.cache
+C:\Users\2022\Desktop\isp223k - dvd\isp223k - dvd\obj\Debug\isp223k - dvd.csproj.CoreCompileInputs.cache
+C:\Users\2022\Desktop\isp223k - dvd\isp223k - dvd\obj\Debug\isp223k - dvd.exe
+C:\Users\2022\Desktop\isp223k - dvd\isp223k - dvd\obj\Debug\isp223k - dvd.pdb
+C:\Users\2022\Desktop\isp223k - dvd\isp223k - dvd\obj\Debug\isp223k___dvd.MainForm.resources
